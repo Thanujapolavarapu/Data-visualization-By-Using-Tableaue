@@ -1,4 +1,4 @@
-# Data-visualization-By-Using-Tableaue
+# Data-Visualisation-By-Using-Tableaue
 Aim: To analyze the Data of different Nations.
 
 The Dataset contains information about different countries GDP,Life-expetency and Smartphone users.
